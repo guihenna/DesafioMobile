@@ -2,8 +2,8 @@
 <resources>
     <color name="colorPrimary">#13C0CF</color>
     <color name="colorPrimaryLight">#A5E5FF</color>
-    <color name="colorPrimaryDark">#00707F</color>
-    <color name="colorAccent">#0FF081</color>
+    <color name="colorPrimaryDark">#007F7F</color>
+    <color name="colorAccent">#0FFFC0</color>
     <color name="black">#000000</color>
     <color name="white">#FFFFFF</color>
     <color name="textoBotao">#5000AF</color>
