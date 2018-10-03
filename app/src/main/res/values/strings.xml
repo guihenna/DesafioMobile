@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DesafioMobile</string>
+    <string name="erro_servidor">Erro no Servidor! Tente novamente mais tarde</string>
+    <string name="erro_bd">Banco de Dados vazio!\nAcesse a internet para carregar as informações</string>
+    <string name="ac_trailer">Assistir trailer</string>
+    <string name="release_date">Data de Lançamento:\n</string>
+    <string name="platforms">Plataformas:\n</string>
+    <string name="carregando">Carregando</string>
+    <string name="title">Jogos</string>
+</resources>
