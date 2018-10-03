@@ -20,12 +20,12 @@
         "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/310be9b8eb8a712f971f516f08a73577/res/layout/notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d6ac4dd71e9518a9949fb6d48ed43449/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
         "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
         "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d6ac4dd71e9518a9949fb6d48ed43449/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -124,12 +124,12 @@
         "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
-        "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/310be9b8eb8a712f971f516f08a73577/res/layout/notification_template_lines_media.xml"
-    },
-    {
         "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
         "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/310be9b8eb8a712f971f516f08a73577/res/layout/notification_template_lines_media.xml"
     },
     {
         "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
@@ -236,16 +236,16 @@
         "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
-        "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/anim_abc_slide_in_top.xml.flat",
         "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_design_ic_visibility.png.flat",
@@ -308,12 +308,12 @@
         "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/da85d9fa913302559c3e536c631c0738/res/layout/design_layout_snackbar_include.xml"
     },
     {
-        "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/anim_tooltip_exit.xml.flat",
-        "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/anim/tooltip_exit.xml"
-    },
-    {
         "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/anim_tooltip_exit.xml.flat",
+        "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/anim/tooltip_exit.xml"
     },
     {
         "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -336,12 +336,12 @@
         "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
-        "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/anim/abc_fade_out.xml"
-    },
-    {
         "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
+        "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/anim/abc_fade_out.xml"
     },
     {
         "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -432,12 +432,12 @@
         "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/310be9b8eb8a712f971f516f08a73577/res/layout/notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
-        "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d6ac4dd71e9518a9949fb6d48ed43449/res/layout/notification_template_part_time.xml"
-    },
-    {
         "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d6ac4dd71e9518a9949fb6d48ed43449/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/drawable-v23_abc_control_background_material.xml.flat",
@@ -460,12 +460,12 @@
         "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/da85d9fa913302559c3e536c631c0738/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     },
     {
-        "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/layout_activity_detalhe.xml.flat",
-        "source": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/src/main/res/layout/activity_detalhe.xml"
-    },
-    {
         "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
         "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/layout_activity_detalhe.xml.flat",
+        "source": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/src/main/res/layout/activity_detalhe.xml"
     },
     {
         "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -592,12 +592,12 @@
         "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/drawable/abc_dialog_material_background.xml"
     },
     {
-        "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
-    },
-    {
         "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
         "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/guilhenna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/515804cb64fa0deb428750a86e4c9728/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
         "merged": "/Users/guilhenna/Desktop/Aulas/Topicos12/DesafioMobile/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",

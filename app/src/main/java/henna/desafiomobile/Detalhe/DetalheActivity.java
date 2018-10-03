@@ -71,12 +71,12 @@ public class DetalheActivity extends AppCompatActivity {
         /*
             Insere a data de lancamento na TextView
          */
-        releaseDateJogo.setText(jogo.getReleaseDate());
+        releaseDateJogo.setText(releaseDateJogo.getText() + jogo.getReleaseDate());
 
         /*
             Insere a lista de plataformas na TextView
          */
-        platformsJogo.setText(jogo.getPlatformsComma());
+        platformsJogo.setText(platformsJogo.getText() + jogo.getPlatformsComma());
     }
 
     /*

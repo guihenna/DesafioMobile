@@ -41,7 +41,8 @@
                 android:textColor="@color/colorPrimaryDark"
                 android:layout_margin="20dp"
                 android:textStyle="normal"
-                android:textSize="20sp" />
+                android:textSize="20sp"
+                android:text="@string/release_date" />
 
             <TextView
                 android:id="@+id/as_plat"
@@ -50,7 +51,8 @@
                 android:textColor="@color/colorPrimary"
                 android:layout_margin="20dp"
                 android:textStyle="normal"
-                android:textSize="20sp" />
+                android:textSize="20sp"
+                android:text="@string/platforms" />
 
             <Button
                 android:id="@+id/botao"
