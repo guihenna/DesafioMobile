@@ -136,10 +136,13 @@ public class BancoDeDados extends SQLiteOpenHelper{
                 String trailer = cursor.getString(cursor.getColumnIndex(Column5));
                 String platforms = cursor.getString(cursor.getColumnIndex(Column6));
 
+                /*
+                    Transforma em uma Lista para inserir no objeto "novo"
+                 */
                 List<String> platformsLista = Arrays.asList(platforms.split(", "));
 
-                Jogo nova = new Jogo(id, name, image, release_date, trailer, platformsLista);
-                lista.add(nova);
+                Jogo novo = new Jogo(id, name, image, release_date, trailer, platformsLista);
+                lista.add(novo);
             } while(cursor.moveToNext());
         }
         cursor.close();
